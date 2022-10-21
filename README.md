@@ -26,11 +26,15 @@
 # How to set it up 
 
  * Write Cpu-and-Ram-usage-on-Oled-128x64-display.ino on your arduino and downlad library
+   * Wire.h
+   * Adafruit_GFX.h
+   * Adafruit_SSD1306.h
  * Set cables management
  * pull the code on your arduino 
  
  * Downlad python https://www.python.org/downloads/ and open your cmd and enter "pip install psutil" and "pip install pyserial"
  * run CpuRamMonitor.py
+ 
  **that it !**
 
 
